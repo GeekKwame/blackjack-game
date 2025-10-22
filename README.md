@@ -13,7 +13,7 @@ A classic Blackjack card game built with vanilla JavaScript, HTML, and CSS.
 
 ## 🚀 Live Demo
 
-[Play the game here](https://GeekKwame.github.io/blackjack-game)
+[Play the game here](https://blackjack-game-dev.netlify.app/)
 
 ## 🛠️ Features
 
